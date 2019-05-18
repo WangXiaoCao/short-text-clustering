@@ -7,10 +7,10 @@ import math
 import random
 import time
 
-train_tokens_file = 'train_tokens.json'
-train_topics_file = 'train_topics.json'
-test_tokens_file = 'test_tokens.json'
-vocab_file = 'vocab.json'
+train_tokens_file = './data/train_tokens.json'
+train_topics_file = './data/train_topics.json'
+test_tokens_file = './data/test_tokens.json'
+vocab_file = './data/vocab.json'
 output_file = 'output.json'
 
 
