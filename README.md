@@ -21,7 +21,7 @@ project
 
 ## Jupyter Notebook
 
-See the [notebook](./src/train_clustering.ipynb) to see details of the algorithms and implementation.
+Goto the [notebook](./src/train_clustering.ipynb) to see details of the algorithms and implementation.
 
 ## License
 
